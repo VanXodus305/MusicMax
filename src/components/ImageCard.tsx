@@ -6,7 +6,7 @@ interface Props {
   url?: string;
 }
 
-const ImageCard = ({ title, image, url }: Props) => {
+const ImageCard = ({ title, image }: Props) => {
   return (
     <Card
       isPressable

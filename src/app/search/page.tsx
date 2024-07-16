@@ -1,12 +1,4 @@
-import {
-  Card,
-  CardBody,
-  Input,
-  Image,
-  CardFooter,
-  ScrollShadow,
-  Button,
-} from "@nextui-org/react";
+import { Input, ScrollShadow, Button } from "@nextui-org/react";
 import { BsSearch } from "react-icons/bs";
 import {
   recentSearches,
